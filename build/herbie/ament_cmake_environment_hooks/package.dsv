@@ -1,0 +1,4 @@
+source;share/herbie/local_setup.bash
+source;share/herbie/local_setup.dsv
+source;share/herbie/local_setup.sh
+source;share/herbie/local_setup.zsh

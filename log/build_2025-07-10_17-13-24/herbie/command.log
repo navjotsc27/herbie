@@ -1,0 +1,4 @@
+Invoking command in '/home/nsc9/dev_ws/src/herbie/build/herbie': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nsc9/dev_ws/src/herbie/build/herbie -- -j4 -l4
+Invoked command in '/home/nsc9/dev_ws/src/herbie/build/herbie' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nsc9/dev_ws/src/herbie/build/herbie -- -j4 -l4
+Invoking command in '/home/nsc9/dev_ws/src/herbie/build/herbie': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nsc9/dev_ws/src/herbie/build/herbie
+Invoked command in '/home/nsc9/dev_ws/src/herbie/build/herbie' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nsc9/dev_ws/src/herbie/build/herbie

@@ -1,0 +1,24 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/config/empty.yaml
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/description/inertial_macros.xacro
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/description/robot.urdf.xacro
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/description/robot_core.xacro
+-- Symlinking: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/launch/__pycache__/rsp.launch.cpython-310.pyc
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/launch/rsp.launch.py
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/worlds/empty.world
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/ament_index/resource_index/package_run_dependencies/herbie
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/ament_index/resource_index/parent_prefix_path/herbie
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/environment/path.sh
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/environment/path.dsv
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/local_setup.bash
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/local_setup.sh
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/local_setup.zsh
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/local_setup.dsv
+-- Symlinking: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/package.dsv
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/ament_index/resource_index/packages/herbie
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/cmake/herbieConfig.cmake
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/cmake/herbieConfig-version.cmake
+-- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/package.xml

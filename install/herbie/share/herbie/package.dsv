@@ -1,0 +1,8 @@
+source;share/herbie/hook/cmake_prefix_path.ps1
+source;share/herbie/hook/cmake_prefix_path.dsv
+source;share/herbie/hook/cmake_prefix_path.sh
+source;share/herbie/local_setup.bash
+source;share/herbie/local_setup.dsv
+source;share/herbie/local_setup.ps1
+source;share/herbie/local_setup.sh
+source;share/herbie/local_setup.zsh

@@ -1,0 +1,28 @@
+[0.016s] Invoking command in '/home/nsc9/dev_ws/src/herbie/build/herbie': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nsc9/dev_ws/src/herbie/build/herbie -- -j4 -l4
+[0.154s] Invoked command in '/home/nsc9/dev_ws/src/herbie/build/herbie' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nsc9/dev_ws/src/herbie/build/herbie -- -j4 -l4
+[0.160s] Invoking command in '/home/nsc9/dev_ws/src/herbie/build/herbie': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nsc9/dev_ws/src/herbie/build/herbie
+[0.168s] -- Install configuration: ""
+[0.169s] -- Execute custom install script
+[0.172s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/config/empty.yaml
+[0.172s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/description/inertial_macros.xacro
+[0.172s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/description/robot.urdf.xacro
+[0.172s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/description/robot_core.xacro
+[0.173s] -- Symlinking: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/launch/__pycache__/rsp.launch.cpython-310.pyc
+[0.178s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/launch/rsp.launch.py
+[0.178s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/worlds/empty.world
+[0.179s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/ament_index/resource_index/package_run_dependencies/herbie
+[0.179s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/ament_index/resource_index/parent_prefix_path/herbie
+[0.179s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/environment/ament_prefix_path.sh
+[0.179s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/environment/ament_prefix_path.dsv
+[0.179s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/environment/path.sh
+[0.180s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/environment/path.dsv
+[0.180s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/local_setup.bash
+[0.180s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/local_setup.sh
+[0.180s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/local_setup.zsh
+[0.180s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/local_setup.dsv
+[0.180s] -- Symlinking: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/package.dsv
+[0.186s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/ament_index/resource_index/packages/herbie
+[0.187s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/cmake/herbieConfig.cmake
+[0.187s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/cmake/herbieConfig-version.cmake
+[0.187s] -- Up-to-date symlink: /home/nsc9/dev_ws/src/herbie/install/herbie/share/herbie/package.xml
+[0.188s] Invoked command in '/home/nsc9/dev_ws/src/herbie/build/herbie' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nsc9/dev_ws/src/herbie/build/herbie
