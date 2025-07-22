@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <world name="default">
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+    <include>
+      <uri>model://sun</uri>
+    </include>
+
+    <!-- Construction Cones -->
+    <model name="construction_cone_1">
+      <include>
+        <uri>model://construction_cone</uri>
+      </include>
+      <pose>1 1 0 0 0 0</pose>
+    </model>
+
+    <model name="construction_cone_2">
+      <include>
+        <uri>model://construction_cone</uri>
+      </include>
+      <pose>3 1.5 0 0 0 0</pose>
+    </model>
+
+    <model name="construction_cone_3">
+      <include>
+        <uri>model://construction_cone</uri>
+      </include>
+      <pose>5 2 0 0 0 0</pose>
+    </model>
+
+    <model name="construction_cone_4">
+      <include>
+        <uri>model://construction_cone</uri>
+      </include>
+      <pose>7 2.5 0 0 0 0</pose>
+    </model>
+
+    <model name="construction_cone_5">
+      <include>
+        <uri>model://construction_cone</uri>
+      </include>
+      <pose>9 3 0 0 0 0</pose>
+    </model>
+
+    <!-- Construction Barrels -->
+    <model name="construction_barrel_1">
+      <include>
+        <uri>model://construction_barrel</uri>
+      </include>
+      <pose>2 4 0 0 0 0</pose>
+    </model>
+
+    <model name="construction_barrel_2">
+      <include>
+        <uri>model://construction_barrel</uri>
+      </include>
+      <pose>4 4.5 0 0 0 0</pose>
+    </model>
+
+    <model name="construction_barrel_3">
+      <include>
+        <uri>model://construction_barrel</uri>
+      </include>
+      <pose>6 5 0 0 0 0</pose>
+    </model>
+
+    <model name="construction_barrel_4">
+      <include>
+        <uri>model://construction_barrel</uri>
+      </include>
+      <pose>8 5.5 0 0 0 0</pose>
+    </model>
+
+    <model name="construction_barrel_5">
+      <include>
+        <uri>model://construction_barrel</uri>
+      </include>
+      <pose>10 6 0 0 0 0</pose>
+    </model>
+
+  </world>
+</sdf>

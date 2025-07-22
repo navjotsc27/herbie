@@ -4,4 +4,6 @@
 
     <xacro:include filename="robot_core.xacro" />
 
+    <xacro:include filename="/home/nsc9/dev_ws/src/herbie/description/gazebo_control.xacro" />
+
 </robot>
