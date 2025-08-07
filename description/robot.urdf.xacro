@@ -4,6 +4,10 @@
 
     <xacro:include filename="robot_core.xacro" />
 
-    <xacro:include filename="/home/nsc9/dev_ws/src/herbie/description/gazebo_control.xacro" />
+    <xacro:include filename="/home/herbie/dev_ws/src/herbie/description/gazebo_control.xacro" />
+
+    <xacro:include filename="/home/herbie/dev_ws/src/herbie/description/lidar.xacro" />
+
+    <xacro:include filename="/home/herbie/dev_ws/src/herbie/description/camera.xacro" />
 
 </robot>
